@@ -1,0 +1,6 @@
+{
+  "name": "KotaToppers - IIT JEE, NEET & Foundation Coaching",
+  "description": "Premier Kota coaching institute for IIT JEE Main & Advanced, NEET, Foundation & Olympiads. Featuring Kota test series, top faculty mentorship, and comprehensive study material.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
